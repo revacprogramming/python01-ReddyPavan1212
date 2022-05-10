@@ -1,3 +1,3 @@
 # Variables, Expressions & Statements
 
-hrs = float(input("Enter hours? "))
+hrs = print(input("Enter hours? "))
